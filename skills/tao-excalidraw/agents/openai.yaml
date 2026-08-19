@@ -1,0 +1,6 @@
+interface:
+  display_name: "tao-excalidraw"
+  short_description: "先确认绘制逻辑和统一图片尺寸，再生成完整视觉交付包"
+  default_prompt: "Use $tao-excalidraw to plan this Chinese video script, ask me to confirm one unified size for every section image, and then create the Excalidraw visual package."
+policy:
+  allow_implicit_invocation: true
